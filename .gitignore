@@ -1,0 +1,8 @@
+# personal writeups, not part of the project
+blog.md
+build_redis.md
+
+# build output
+server
+client
+*.dSYM/
